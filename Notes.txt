@@ -1,0 +1,9 @@
+Simple matrix calculator should:
+
+    1. Addition: Adding matrices of the same size by adding corresponding elements.
+    2. Subtraction: Subtracting matrices of the same size by subtracting corresponding elements.
+    3. Scalar multiplication: Multiplying a matrix by a scalar value, i.e., multiplying each element of the matrix by the scalar.
+    4. Matrix multiplication: Multiplying two matrices where the number of columns in the first matrix equals the number of rows in the second matrix.
+    5. Transposition: Creating a new matrix where rows become columns and columns become rows.
+    6. Determinant: Calculating the determinant of a square matrix.
+    7. Inverse: Finding the inverse of a square matrix, if it exists.
